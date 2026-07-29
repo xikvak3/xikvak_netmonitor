@@ -69,10 +69,5 @@ Found a bug, or have a feature idea? Reach out through Telegram or email above, 
 
 XIKVAK NetMonitor is an independent project and is not affiliated with, endorsed by, or sponsored by Google, your carrier, or any device manufacturer. Measured speeds reflect the connection between your device and the test endpoint at that moment, and can vary with network congestion, signal strength, and server load — like any speed test.
 
-## 📄 License
-
-*Add your chosen license here (e.g. MIT, Apache 2.0, or "All rights reserved") before publishing.*
-
----
 
 <div align="center">Made with care</div>
