@@ -32,9 +32,9 @@ This repository distributes the **compiled APK only** — no source code, no bui
 
 > Add your own screenshots here once you've built and installed the app — the status bar indicator in action and the speed test screen are good ones to show:
 >
-> ```markdown
-> <img src="docs/screenshots/statusbar.png" width="240"/> <img src="docs/screenshots/speedtest.png" width="240"/>
-> ```
+
+ <img src="docs/screenshots/statusbar.png" width="240"/> <img src="docs/screenshots/speedtest.png" width="240"/>
+
 
 ## 📥 Installation
 
