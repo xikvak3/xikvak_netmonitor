@@ -4,8 +4,8 @@
 
 [![Platform](https://img.shields.io/badge/platform-Android-3DDC84?logo=android&logoColor=white)](#)
 [![Min SDK](https://img.shields.io/badge/Min%20SDK-24%20(Android%207.0%2B)-blue)](#)
-[![Release](https://img.shields.io/github/v/release/github.com/xikvak3/xikvak_netmonitor?label=latest%20release)](../../releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/github.com/xikvak3/xikvak_netmonitor/total)](../../releases)
+[![Release](https://img.shields.io/github/v/release/https://github.com/xikvak3/xikvak_netmonitor?label=latest%20release)](../../releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/https://github.com/xikvak3/xikvak_netmonitor/total)](../../releases)
 
 **Your real-time internet speed, always visible in the status bar.**
 
